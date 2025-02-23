@@ -1,4 +1,4 @@
-name: 高缘课题组  Xiao Research Group
+name: 肖航课题组  Xiao Research Group
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -38,5 +38,5 @@ navigation:
     link: /
   - title: 科研项目 Research
     link: /research.html
-  - title: 论文 Publications
+  - title: 论文项目 Publications
     link: /publications.html
